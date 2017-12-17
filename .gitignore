@@ -1,7 +1,6 @@
 /bin/
 *Debug.win32/
 *Release.win32/
-/proj.win32/res
 /proj.win32/*.db
 *.vs/
 /proj.android-studio/build
